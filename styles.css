@@ -1,0 +1,17 @@
+body {
+  background-color:black;
+}
+.clock {
+  position:absolute;
+  top:25%;
+  left:25%;
+  font-family:Arial;
+  letter-spacing:10px;
+  font-size:70px;
+  color:blue;
+  text-shadow:white 2px 2px;
+  border-style:solid;
+  padding:20px;
+  margin:20px;
+  margin-color:red
+}
